@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
+
+body {
+    background-size: cover;
+    background: black url('../images/bg.png') no-repeat scroll center center;
+    min-height: 100vh;
+}
