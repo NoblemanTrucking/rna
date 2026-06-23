@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    background: black url('../images/bg2.png') no-repeat scroll center top;
+    background: black url('../images/bg.png') no-repeat scroll center top;
     background-size: 100% auto;
     /* Ratio: (1768 / 1179) * 100 = 149.95 */
     min-height: 150vw;
